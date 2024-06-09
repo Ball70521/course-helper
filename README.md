@@ -11,5 +11,5 @@
 - faiss_index: 用 FAISS 建立好的向量搜索庫
 
 ## 使用說明
-1. 先申請 openAI 的 API key 並建立 .env 檔加入 `OPENAI_API_KEY=申請的key`
+1. 先申請 openAI 的 API key 並建立 .env 檔，然後加入 `OPENAI_API_KEY=申請的key`
 2. 記得更改LangChain.ipynb程式碼裡面的檔案路徑
