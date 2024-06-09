@@ -1,5 +1,5 @@
 # course-helper
-## 檔案說明:
+## 檔案說明
 - test.ipynb: 原先的LangChain (Llama3)
 - data.json: 原始課程資料
 - data2.json: 英文翻譯的課程資料
